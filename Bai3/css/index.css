@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+#container{
+    background-image: url(../img/background.jpg);
+    background-repeat: repeat;
+    height: 100vh;
+}
+
+#logo {
+    text-align: center;
+}
+
+#car {
+    text-align: center;
+}
